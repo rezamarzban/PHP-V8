@@ -21,12 +21,14 @@ Run below commands to install required packages and modules:
 "php --ri V8"
 
 
-Note: PHP-V8 extension is only available for AMD processors. And i followed all of web guides to installing V8 extension for PHP, But all of these were unsuccessful.
+Note: PHP-V8 extension is only available for AMD processors. And i followed all of web guides to installing V8 extension for PHP, But all of these were confusing and unsuccessful.
 
 After running last command you will see something like as this that shows V8 extension is installed successfully:
 
 ![image1](https://github.com/marzban2030/PHP-V8/raw/main/V8.jpg)
 
+I did this in my VPS with AMD Rysen 7 3700x 8-core CPU which is located in Germany. 
+Finally put "V8.php" file in your www root folder and navigate your browser to it by typing "http://yourip/V8.php", You'll see something like as this:
 
 
 
