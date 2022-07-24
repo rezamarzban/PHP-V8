@@ -21,6 +21,10 @@ Run below commands to install required packages and modules:
 "php --ri V8"
 
 
-Note: PHP-V8 extension is only available for AMD processors.
+Note: PHP-V8 extension is only available for AMD processors. And i followed all of web guides to installing V8 extension for PHP, But all of these were unsuccessful.
+
+After running last command you will see something like as this that shows V8 extension is installed successfully:
+
+
 
 
