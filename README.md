@@ -18,6 +18,8 @@ Run below commands to install required packages and modules:
 
 "dpkg -i php-v8_0.2.2-ppa1~artful_amd64.deb"
 
+"php --ri V8"
+
 
 Note: PHP-V8 extension is only available for AMD processors.
 
