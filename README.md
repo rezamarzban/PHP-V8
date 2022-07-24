@@ -25,7 +25,7 @@ Note: PHP-V8 extension is only available for AMD processors. And i followed all 
 
 After running last command you will see something like as this that shows V8 extension is installed successfully:
 
-![image1] (https://github.com/marzban2030/PHP-V8/raw/main/V8.jpg)
+![image1](https://github.com/marzban2030/PHP-V8/raw/main/V8.jpg)
 
 
 
