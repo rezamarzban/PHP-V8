@@ -33,4 +33,8 @@ Finally after rebooting your system put "V8.php" file in your www root folder an
 ![image2](https://github.com/marzban2030/PHP-V8/raw/main/V8_browser.jpg)
 
 
+php-v8 documentation: 
+https://php-v8.readthedocs.io/
 
+php-v8 source:
+https://github.com/phpv8/php-v8
