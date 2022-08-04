@@ -8,7 +8,7 @@ Run below commands to install required packages and modules:
 
 "sudo apt-get update"
 
-"sudo install apache2 php libv8-dev"
+"sudo apt install apache2 php libv8-dev"
 
 "wget https://launchpad.net/~pinepain/+archive/ubuntu/php/+files/libv8-6.6_6.6.313-ppa1~xenial_amd64.deb"
 
