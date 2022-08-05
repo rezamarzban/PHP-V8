@@ -14,9 +14,9 @@ Run below commands to install required packages and modules:
 
 "dpkg -i libv8-6.6_6.6.313-ppa1~xenial_amd64.deb"
 
-"wget https://launchpad.net/~pinepain/+archive/ubuntu/php/+files/php-v8_0.2.2-ppa1~artful_amd64.deb"
+"wget https://launchpad.net/~pinepain/+archive/ubuntu/php/+files/php-v8_0.2.2-ppa1~xenial_amd64.deb"
 
-"dpkg -i php-v8_0.2.2-ppa1~artful_amd64.deb"
+"dpkg -i php-v8_0.2.2-ppa1~xenial_amd64.deb"
 
 "php --ri V8"
 
